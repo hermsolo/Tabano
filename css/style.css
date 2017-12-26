@@ -1,7 +1,9 @@
 body {
 	background-color: black;
 	color: white;
+	/* Open Sans Acting weird in GitHub"
 	font-family: "Open Sans";
+	*/
 	text-align: center;
 }
 
